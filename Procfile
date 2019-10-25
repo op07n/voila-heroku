@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser notebooks/SRTMtest1.ipynb
+web: voila --port=$PORT --no-browser --debug notebooks/SRTMtest1.ipynb
