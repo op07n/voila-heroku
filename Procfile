@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --debug index.ipynb
+web: voila --port=$PORT --no-browser --debug notebooks/country-indicators.ipynb
